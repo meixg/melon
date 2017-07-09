@@ -4,7 +4,8 @@
  * @author leon<ludafa@outlook.com>
  */
 
-import React, {PropTypes, Component} from 'react';
+import React, {Component} from 'react';
+import PropTypes from 'prop-types';
 import ReactDOM from 'react-dom';
 import Button from './Button';
 import * as dom from './common/util/dom';
